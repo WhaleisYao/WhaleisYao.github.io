@@ -1,2 +1,2 @@
 # WhaleisYao
-Here is my book review
+My blog
